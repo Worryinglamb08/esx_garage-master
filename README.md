@@ -1,5 +1,5 @@
 # esx_garage-master
-A fivem garage with caméra system
+A fivem garage with camera system
 
 ### server.cfg ###
 
